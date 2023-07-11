@@ -1,4 +1,4 @@
-# Title
+# ALP1 Funktionale Programmierung
 
 The purpose of this repository is to serve as data storage and to present the completed work of the course ALP 1 (Functional Programming) at Freie Universität Berlin.
 
